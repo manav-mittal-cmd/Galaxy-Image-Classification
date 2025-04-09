@@ -7,3 +7,5 @@ The galaxies are classified into Spiral, Elliptical, and Barred Spiral.
 The model has an ~86% training accuracy. 
 
 A front end for the project is available by running the command ```streamlit run frontEnd.py```.
+
+Sample pictures are included for uploading to the front end.
